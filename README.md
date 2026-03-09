@@ -1,4 +1,4 @@
-# 🚗 Estacionamiento Vertical Autónomo (Escala 1:65) Leo Romano
+# 🚗 Estacionamiento Vertical Autónomo (Escala 1:65)        Leo Romano
 > **Sistema de parking inteligente con arquitectura híbrida Python/Arduino, control de movimiento de precisión y lógica concurrente.**
 
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)
