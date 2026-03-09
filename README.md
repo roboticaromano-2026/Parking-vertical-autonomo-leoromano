@@ -4,7 +4,7 @@
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
 
-Este proyecto consiste en el diseño y desarrollo de un prototipo de parking vertical automatizado para la optimización de espacios urbanos. El sistema integra hardware de potencia con una interfaz de usuario avanzada para gestionar el flujo vehicular de forma segura y eficiente.
+Este proyecto consiste en el diseño y desarrollo de un prototipo de parking vertical automatizado para la optimización de espacios urbanos. El sistema integra hardware de potencia con una interfaz de usuario avanzada para gestionar el flujo vehicular de forma segura y eficiente. Aun está en proceso...
 
 ## 🚀 Características Técnicas
 - **Arquitectura Híbrida:** Control de bajo nivel en microcontrolador (Arduino Mega) y gestión de alto nivel en PC (Python).
@@ -20,6 +20,7 @@ Este proyecto consiste en el diseño y desarrollo de un prototipo de parking ver
 El proyecto se encuentra funcional, aunque el repositorio está en fase de carga documental activa.
 - [x] Código fuente de control (Arduino) e Interfaz (Python).
 - [x] Documentación técnica principal (PDF).
+- [ ] **Pendiente:** Terminar el desarrollo del codigo (python) para las funciones de control de hardware (movimientos fisicos). 
 - [ ] **En desarrollo:** Planos mecánicos detallados del sistema de elevación.
 - [ ] **En desarrollo:** Refactorización del módulo de sensores para mayor redundancia.
 - [ ] **Pendiente:** Video demostrativo del prototipo en operación en Youtube.
