@@ -1,4 +1,4 @@
-# 🚗 Estacionamiento Vertical Autónomo (Maquetado a escala 1:65) Por Leonardo Romano
+# 🚗 Estacionamiento Vertical Autónomo (Maqueta a escala 1:65) Por Leonardo Romano
 > **Sistema de parking inteligente con arquitectura híbrida Python/Arduino, control de movimiento de precisión y lógica concurrente.**
 
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)
